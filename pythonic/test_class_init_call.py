@@ -1,3 +1,4 @@
+# test __init__ __call__
 class Computer:
     def __init__(self, name: str, cpu_name: str, gpu_name: str):
         print("__init__")
