@@ -32,4 +32,4 @@ class CicleWithTriangle(Scene):
 
 
 if __name__ == "__main__":
-    os.system("manim -p -ql ./manim/test_manim_example.py CicleWithTriangle")
+    os.system("manim -p -ql ./manim/test_circle_with_triangle.py CicleWithTriangle")
