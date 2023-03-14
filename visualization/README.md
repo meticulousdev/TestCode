@@ -3,7 +3,7 @@
 
 ![f9303d00-ec9c-4d00-a34a-b4c1c2bed61e](https://user-images.githubusercontent.com/83524779/224243781-1cbc747d-654f-4fc0-af2b-19ca696ea4a0.png)
 
-- [Radical Heatmap](https://github.com/meticulousdev/TestCode/blob/main/visualization/radical_heatmap/test_radial_heatmap.py)
+- [Radical Heatmap](https://github.com/meticulousdev/TestCode/blob/main/visualization/test_radical_heatmap/test_radial_heatmap.py)
 
 ![radical_heatmap](https://user-images.githubusercontent.com/83524779/224905556-f183229b-6eb4-45d2-82f3-095ac7dc01a4.png)
 ![radical_heatmap_colorbar](https://user-images.githubusercontent.com/83524779/224905581-30f36fe3-1355-4d34-ad4d-88bfc689d836.png)
